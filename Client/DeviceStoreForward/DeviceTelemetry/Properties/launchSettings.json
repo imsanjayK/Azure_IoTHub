@@ -1,0 +1,22 @@
+{
+  "profiles": {
+    "DeviceStoreForward": {
+      "commandName": "Project",
+      "environmentVariables": {
+        //"HostName": "egdeDevelopmentHub",
+        //"DeviceId": "deviceDemo",
+        //"SharedKey": "/H+7YnsRSePk7vMa8amyja751yA3g2rP+cDv1f4sfBA=",
+        
+        "HostName": "demoEdgeHub",
+        
+        "DeviceId": "iothub-device2",
+        "SharedKey": "kI0Z6PT5x6XbbkdjC7tzYTVyGzLPUVz3imrz9YXrxiw=",
+
+        "Delay": "00:00:10"
+      }
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

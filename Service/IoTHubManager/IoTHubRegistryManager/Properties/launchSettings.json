@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "IoTHubRegistryManager": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ConnectionString": "HostName=demoEdgeHub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=ZiNjmwUpVNz+xcjJhqXwO8qVffa7Y82myv5YbapN4EI="
+      }
+    }
+  }
+}
