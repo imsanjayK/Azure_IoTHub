@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "D2C_MessageReader": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "EventHubCompatiblePath": "iothub-ehub-demoedgehu-3340686-c51830f149",
+        "IoTHubSasKey": "b8nch4DEZzkpeLhF8hhm+LbH/NIj3o/p8R2sWjZvji4=",
+        "IoTHubSasKeyName": "service",
+        "EventHubCompatibleEndpoint": "sb://ihsuprodblres096dednamespace.servicebus.windows.net/"
+      }
+    }
+  }
+}
